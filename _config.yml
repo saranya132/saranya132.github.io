@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saranya Venkatraman"
+title                    : 
 title_separator          : "-"
-name                     : &name "Ph.D. Student"
+name                     : &name 
 description              : &description ""
 url                      : https://saranya132.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ author:
   location         : "Pennsylvania, US"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=qrvxwt4AAAAJ&hl=en&oi=ao"
-  email            : 
+  email            : "saranya132@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
